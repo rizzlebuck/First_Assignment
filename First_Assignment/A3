@@ -1,0 +1,9 @@
+#Assignment 3: Task 1
+Bread, Peanut_butter, Jelly = 140.20, 150.25, 130.24
+Total = Bread + Peanut_butter + Jelly
+print(Total)
+# Assignment 3: Task 2
+account_total = 10,000.00
+interest_rate = 0.007
+Total = account_total + (account_total * interest_rate)
+print(Total)
